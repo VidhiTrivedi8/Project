@@ -4,6 +4,7 @@ Step 1:
 Installation of Ulfuis Framework:
 
 Prerequisite: There should be a Linux environment
+
 $ sudo apt install -y libmicrohttpd-dev libjansson-dev libcurl4-gnutls-dev libgnutls28-dev libgcrypt20-dev libsystemd-dev
 
 $ wget https://github.com/babelouest/ulfius/releases/download/v2.7.0/ulfius-dev-full_2.7.0_debian_buster_x86_64.tar.gz
